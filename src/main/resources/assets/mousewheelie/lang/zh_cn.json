@@ -16,4 +16,12 @@
 	"tweed.cloth.mousewheelie.refill": "重新装满",
 	"tweed.cloth.mousewheelie.refill.eat": "吃食物时重新装满",
 	"tweed.cloth.mousewheelie.refill.other": "在其他场合时重新装满"
+
+	"tweed.cloth.mousewheelie.refill.rules": "重新装满的规则",
+	"tweed.cloth.mousewheelie.refill.rules.any-block": "使用任意块重新填装",
+	"tweed.cloth.mousewheelie.refill.rules.itemgroup": "使用项目组重新填装",
+	"tweed.cloth.mousewheelie.refill.rules.item-hierarchy": "使用具有类似功能的物品重新填装",
+	"tweed.cloth.mousewheelie.refill.rules.block-hierarchy": "使用具有类似功能的块重新填装",
+	"tweed.cloth.mousewheelie.refill.rules.food": "重新装满食物",
+	"tweed.cloth.mousewheelie.refill.rules.equal-stacks": "使用相同的物品重新填装"
 }
